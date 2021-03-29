@@ -28,4 +28,4 @@ npm start
 Step 4:
 To Visit App:
 
-localhost:3000/ideas
+localhost:3000
