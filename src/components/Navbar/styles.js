@@ -22,6 +22,12 @@ export default makeStyles((theme) => ({
   image: {
     marginRight: '10px',
     height: '60px',
+    backgroundColor: 'white',
+    borderRadius: '50%',
+
+border: '3px solid black',
+
+overflow: 'hidden',
   },
   menuButton: {
     marginRight: theme.spacing(2),
